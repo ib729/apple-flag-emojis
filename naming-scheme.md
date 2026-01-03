@@ -1,4 +1,4 @@
-| ISO Code | Formal Full Name | Primary Native Name |
+| ISO Code | Formal Full Name in English | Primary Native Name |
 | :--- | :--- | :--- |
 | AC | Ascension Island | |
 | AD | Principality of Andorra | Principat d'Andorra |
