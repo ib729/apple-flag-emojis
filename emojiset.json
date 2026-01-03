@@ -1,0 +1,1058 @@
+{
+  "name": "Apple Flag Emojis",
+  "description": "Apple Flag Emojis in PNG format, exported from macOS Tahoe 26.1",
+  "icons": [
+    {
+      "name": "Afghanistan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/af.png"
+    },
+    {
+      "name": "Åland Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ax.png"
+    },
+    {
+      "name": "Albania",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/al.png"
+    },
+    {
+      "name": "Algeria",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/dz.png"
+    },
+    {
+      "name": "American Samoa",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/as.png"
+    },
+    {
+      "name": "Andorra",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ad.png"
+    },
+    {
+      "name": "Angola",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ao.png"
+    },
+    {
+      "name": "Anguilla",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ai.png"
+    },
+    {
+      "name": "Antarctica",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/aq.png"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ag.png"
+    },
+    {
+      "name": "Argentina",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ar.png"
+    },
+    {
+      "name": "Armenia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/am.png"
+    },
+    {
+      "name": "Aruba",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/aw.png"
+    },
+    {
+      "name": "Ascension Island",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ac.png"
+    },
+    {
+      "name": "Australia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/au.png"
+    },
+    {
+      "name": "Austria",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/at.png"
+    },
+    {
+      "name": "Azerbaijan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/az.png"
+    },
+    {
+      "name": "Bahamas",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bs.png"
+    },
+    {
+      "name": "Bahrain",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bh.png"
+    },
+    {
+      "name": "Bangladesh",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bd.png"
+    },
+    {
+      "name": "Barbados",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bb.png"
+    },
+    {
+      "name": "Belarus",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/by.png"
+    },
+    {
+      "name": "Belgium",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/be.png"
+    },
+    {
+      "name": "Belize",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bz.png"
+    },
+    {
+      "name": "Benin",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bj.png"
+    },
+    {
+      "name": "Bermuda",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bm.png"
+    },
+    {
+      "name": "Bhutan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bt.png"
+    },
+    {
+      "name": "Bolivia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bo.png"
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bq.png"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ba.png"
+    },
+    {
+      "name": "Botswana",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bw.png"
+    },
+    {
+      "name": "Bouvet Island",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bv.png"
+    },
+    {
+      "name": "Brazil",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/br.png"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/io.png"
+    },
+    {
+      "name": "British Virgin Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/vg.png"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bn.png"
+    },
+    {
+      "name": "Bulgaria",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bg.png"
+    },
+    {
+      "name": "Burkina Faso",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bf.png"
+    },
+    {
+      "name": "Burundi",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bi.png"
+    },
+    {
+      "name": "Cambodia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kh.png"
+    },
+    {
+      "name": "Cameroon",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cm.png"
+    },
+    {
+      "name": "Canada",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ca.png"
+    },
+    {
+      "name": "Canary Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ic.png"
+    },
+    {
+      "name": "Cape Verde",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cv.png"
+    },
+    {
+      "name": "Cayman Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ky.png"
+    },
+    {
+      "name": "Central African Republic",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cf.png"
+    },
+    {
+      "name": "Ceuta and Melilla",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ea.png"
+    },
+    {
+      "name": "Chad",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/td.png"
+    },
+    {
+      "name": "Chile",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cl.png"
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cn.png"
+    },
+    {
+      "name": "Christmas Island",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cx.png"
+    },
+    {
+      "name": "Clipperton Island",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cp.png"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cc.png"
+    },
+    {
+      "name": "Colombia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/co.png"
+    },
+    {
+      "name": "Comoros",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/km.png"
+    },
+    {
+      "name": "Congo (DRC)",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cd.png"
+    },
+    {
+      "name": "Congo (Republic)",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cg.png"
+    },
+    {
+      "name": "Cook Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ck.png"
+    },
+    {
+      "name": "Costa Rica",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cr.png"
+    },
+    {
+      "name": "Côte d’Ivoire",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ci.png"
+    },
+    {
+      "name": "Croatia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/hr.png"
+    },
+    {
+      "name": "Cuba",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cu.png"
+    },
+    {
+      "name": "Curaçao",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cw.png"
+    },
+    {
+      "name": "Cyprus",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cy.png"
+    },
+    {
+      "name": "Czech Republic",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cz.png"
+    },
+    {
+      "name": "Denmark",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/dk.png"
+    },
+    {
+      "name": "Diego Garcia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/dg.png"
+    },
+    {
+      "name": "Djibouti",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/dj.png"
+    },
+    {
+      "name": "Dominica",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/dm.png"
+    },
+    {
+      "name": "Dominican Republic",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/do.png"
+    },
+    {
+      "name": "Ecuador",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ec.png"
+    },
+    {
+      "name": "Egypt",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/eg.png"
+    },
+    {
+      "name": "El Salvador",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sv.png"
+    },
+    {
+      "name": "England",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gb-eng.png"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gq.png"
+    },
+    {
+      "name": "Eritrea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/er.png"
+    },
+    {
+      "name": "Estonia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ee.png"
+    },
+    {
+      "name": "Eswatini",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sz.png"
+    },
+    {
+      "name": "Ethiopia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/et.png"
+    },
+    {
+      "name": "European Union",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/eu.png"
+    },
+    {
+      "name": "Falkland Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fk.png"
+    },
+    {
+      "name": "Faroe Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fo.png"
+    },
+    {
+      "name": "Fiji",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fj.png"
+    },
+    {
+      "name": "Finland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fi.png"
+    },
+    {
+      "name": "France",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fr.png"
+    },
+    {
+      "name": "French Guiana",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gf.png"
+    },
+    {
+      "name": "French Polynesia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pf.png"
+    },
+    {
+      "name": "French Southern and Antarctic Lands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tf.png"
+    },
+    {
+      "name": "Gabon",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ga.png"
+    },
+    {
+      "name": "Gambia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gm.png"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ge.png"
+    },
+    {
+      "name": "Germany",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/de.png"
+    },
+    {
+      "name": "Ghana",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gh.png"
+    },
+    {
+      "name": "Gibraltar",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gi.png"
+    },
+    {
+      "name": "Greece",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gr.png"
+    },
+    {
+      "name": "Greenland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gl.png"
+    },
+    {
+      "name": "Grenada",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gd.png"
+    },
+    {
+      "name": "Guadeloupe",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gp.png"
+    },
+    {
+      "name": "Guam",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gu.png"
+    },
+    {
+      "name": "Guernsey",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gg.png"
+    },
+    {
+      "name": "Guinea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gn.png"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gw.png"
+    },
+    {
+      "name": "Guyana",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gy.png"
+    },
+    {
+      "name": "Haiti",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ht.png"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/hm.png"
+    },
+    {
+      "name": "Honduras",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/hn.png"
+    },
+    {
+      "name": "Hong Kong",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/hk.png"
+    },
+    {
+      "name": "Hungary",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/hu.png"
+    },
+    {
+      "name": "Iceland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/is.png"
+    },
+    {
+      "name": "India",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/in.png"
+    },
+    {
+      "name": "Indonesia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/id.png"
+    },
+    {
+      "name": "Iran",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ir.png"
+    },
+    {
+      "name": "Iraq",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/iq.png"
+    },
+    {
+      "name": "Ireland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ie.png"
+    },
+    {
+      "name": "Isle of Man",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/im.png"
+    },
+    {
+      "name": "Israel",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/il.png"
+    },
+    {
+      "name": "Italy",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/it.png"
+    },
+    {
+      "name": "Jamaica",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/jm.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/jp.png"
+    },
+    {
+      "name": "Jersey",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/je.png"
+    },
+    {
+      "name": "Jordan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/jo.png"
+    },
+    {
+      "name": "Kazakhstan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kz.png"
+    },
+    {
+      "name": "Kenya",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ke.png"
+    },
+    {
+      "name": "Kiribati",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ki.png"
+    },
+    {
+      "name": "Kosovo",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/xk.png"
+    },
+    {
+      "name": "Kuwait",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kw.png"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kg.png"
+    },
+    {
+      "name": "Laos",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/la.png"
+    },
+    {
+      "name": "Latvia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lv.png"
+    },
+    {
+      "name": "Lebanon",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lb.png"
+    },
+    {
+      "name": "Lesotho",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ls.png"
+    },
+    {
+      "name": "Liberia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lr.png"
+    },
+    {
+      "name": "Libya",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ly.png"
+    },
+    {
+      "name": "Liechtenstein",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/li.png"
+    },
+    {
+      "name": "Lithuania",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lt.png"
+    },
+    {
+      "name": "Luxembourg",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lu.png"
+    },
+    {
+      "name": "Macao",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mo.png"
+    },
+    {
+      "name": "Madagascar",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mg.png"
+    },
+    {
+      "name": "Malawi",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mw.png"
+    },
+    {
+      "name": "Malaysia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/my.png"
+    },
+    {
+      "name": "Maldives",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mv.png"
+    },
+    {
+      "name": "Mali",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ml.png"
+    },
+    {
+      "name": "Malta",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mt.png"
+    },
+    {
+      "name": "Marshall Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mh.png"
+    },
+    {
+      "name": "Martinique",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mq.png"
+    },
+    {
+      "name": "Mauritania",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mr.png"
+    },
+    {
+      "name": "Mauritius",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mu.png"
+    },
+    {
+      "name": "Mayotte",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/yt.png"
+    },
+    {
+      "name": "Mexico",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mx.png"
+    },
+    {
+      "name": "Micronesia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/fm.png"
+    },
+    {
+      "name": "Moldova",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/md.png"
+    },
+    {
+      "name": "Monaco",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mc.png"
+    },
+    {
+      "name": "Mongolia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mn.png"
+    },
+    {
+      "name": "Montenegro",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/me.png"
+    },
+    {
+      "name": "Montserrat",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ms.png"
+    },
+    {
+      "name": "Morocco",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ma.png"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mz.png"
+    },
+    {
+      "name": "Myanmar",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mm.png"
+    },
+    {
+      "name": "Namibia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/na.png"
+    },
+    {
+      "name": "Nauru",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nr.png"
+    },
+    {
+      "name": "Nepal",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/np.png"
+    },
+    {
+      "name": "Netherlands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nl.png"
+    },
+    {
+      "name": "New Caledonia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nc.png"
+    },
+    {
+      "name": "New Zealand",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nz.png"
+    },
+    {
+      "name": "Nicaragua",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ni.png"
+    },
+    {
+      "name": "Niger",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ne.png"
+    },
+    {
+      "name": "Nigeria",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ng.png"
+    },
+    {
+      "name": "Niue",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nu.png"
+    },
+    {
+      "name": "Norfolk Island",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/nf.png"
+    },
+    {
+      "name": "North Korea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kp.png"
+    },
+    {
+      "name": "North Macedonia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mk.png"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mp.png"
+    },
+    {
+      "name": "Norway",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/no.png"
+    },
+    {
+      "name": "Oman",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/om.png"
+    },
+    {
+      "name": "Pakistan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pk.png"
+    },
+    {
+      "name": "Palau",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pw.png"
+    },
+    {
+      "name": "Palestine",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ps.png"
+    },
+    {
+      "name": "Panama",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pa.png"
+    },
+    {
+      "name": "Papua New Guinea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pg.png"
+    },
+    {
+      "name": "Paraguay",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/py.png"
+    },
+    {
+      "name": "Peru",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pe.png"
+    },
+    {
+      "name": "Philippines",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ph.png"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pn.png"
+    },
+    {
+      "name": "Poland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pl.png"
+    },
+    {
+      "name": "Portugal",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pt.png"
+    },
+    {
+      "name": "Puerto Rico",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pr.png"
+    },
+    {
+      "name": "Qatar",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/qa.png"
+    },
+    {
+      "name": "Réunion",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/re.png"
+    },
+    {
+      "name": "Romania",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ro.png"
+    },
+    {
+      "name": "Russia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ru.png"
+    },
+    {
+      "name": "Rwanda",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/rw.png"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/bl.png"
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sh.png"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kn.png"
+    },
+    {
+      "name": "Saint Lucia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lc.png"
+    },
+    {
+      "name": "Saint Martin",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/mf.png"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/pm.png"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/vc.png"
+    },
+    {
+      "name": "Samoa",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ws.png"
+    },
+    {
+      "name": "San Marino",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sm.png"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/st.png"
+    },
+    {
+      "name": "Sark",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/cq.png"
+    },
+    {
+      "name": "Saudi Arabia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sa.png"
+    },
+    {
+      "name": "Scotland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gb-sct.png"
+    },
+    {
+      "name": "Senegal",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sn.png"
+    },
+    {
+      "name": "Serbia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/rs.png"
+    },
+    {
+      "name": "Seychelles",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sc.png"
+    },
+    {
+      "name": "Sierra Leone",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sl.png"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sg.png"
+    },
+    {
+      "name": "Sint Maarten",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sx.png"
+    },
+    {
+      "name": "Slovakia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sk.png"
+    },
+    {
+      "name": "Slovenia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/si.png"
+    },
+    {
+      "name": "Solomon Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sb.png"
+    },
+    {
+      "name": "Somalia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/so.png"
+    },
+    {
+      "name": "South Africa",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/za.png"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gs.png"
+    },
+    {
+      "name": "South Korea",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/kr.png"
+    },
+    {
+      "name": "South Sudan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ss.png"
+    },
+    {
+      "name": "Spain",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/es.png"
+    },
+    {
+      "name": "Sri Lanka",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/lk.png"
+    },
+    {
+      "name": "Sudan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sd.png"
+    },
+    {
+      "name": "Suriname",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sr.png"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sj.png"
+    },
+    {
+      "name": "Sweden",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/se.png"
+    },
+    {
+      "name": "Switzerland",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ch.png"
+    },
+    {
+      "name": "Syria",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/sy.png"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tw.png"
+    },
+    {
+      "name": "Tajikistan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tj.png"
+    },
+    {
+      "name": "Tanzania",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tz.png"
+    },
+    {
+      "name": "Thailand",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/th.png"
+    },
+    {
+      "name": "Timor-Leste",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tl.png"
+    },
+    {
+      "name": "Togo",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tg.png"
+    },
+    {
+      "name": "Tokelau",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tk.png"
+    },
+    {
+      "name": "Tonga",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/to.png"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tt.png"
+    },
+    {
+      "name": "Tristan da Cunha",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ta.png"
+    },
+    {
+      "name": "Tunisia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tn.png"
+    },
+    {
+      "name": "Turkey",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tr.png"
+    },
+    {
+      "name": "Turkmenistan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tm.png"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tc.png"
+    },
+    {
+      "name": "Tuvalu",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/tv.png"
+    },
+    {
+      "name": "Uganda",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ug.png"
+    },
+    {
+      "name": "Ukraine",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ua.png"
+    },
+    {
+      "name": "United Arab Emirates",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ae.png"
+    },
+    {
+      "name": "United Kingdom",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gb.png"
+    },
+    {
+      "name": "United Nations",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/un.png"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/um.png"
+    },
+    {
+      "name": "United States of America",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/us.png"
+    },
+    {
+      "name": "United States Virgin Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/vi.png"
+    },
+    {
+      "name": "Uruguay",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/uy.png"
+    },
+    {
+      "name": "Uzbekistan",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/uz.png"
+    },
+    {
+      "name": "Vanuatu",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/vu.png"
+    },
+    {
+      "name": "Vatican City State",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/va.png"
+    },
+    {
+      "name": "Venezuela",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ve.png"
+    },
+    {
+      "name": "Vietnam",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/vn.png"
+    },
+    {
+      "name": "Wales",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/gb-wls.png"
+    },
+    {
+      "name": "Wallis and Futuna Islands",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/wf.png"
+    },
+    {
+      "name": "Western Sahara",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/eh.png"
+    },
+    {
+      "name": "Yemen",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/ye.png"
+    },
+    {
+      "name": "Zambia",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/zm.png"
+    },
+    {
+      "name": "Zimbabwe",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/zw.png"
+    },
+    {
+      "name": "Rainbow Flag",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/other/pride.png"
+    },
+    {
+      "name": "Transgender Flag",
+      "url": "https://raw.githubusercontent.com/ib729/apple-flag-emojis/main/flags-01032026/other/trans.png"
+    }
+  ]
+}
